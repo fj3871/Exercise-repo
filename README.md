@@ -1,1 +1,2 @@
-h1 Exercise Repo
+# Exercise Repo
+## This is a testing repo
